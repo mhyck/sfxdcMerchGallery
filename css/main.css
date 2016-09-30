@@ -1,0 +1,30 @@
+body {
+	text-align:center;
+}
+
+.logo h1{
+	text-align: center;
+}
+
+.headingTitle {
+	font-size:70px;
+}
+
+.tshirt {
+	margin:20px 0;
+}
+
+.headingTitle {
+	width: 200px;
+   	margin-left: 10px;
+    background-color: red;
+    color: #fff;
+}
+
+.btn.btn-primary {
+	background-color: red;
+}
+
+.btn.btn-primary:hover {
+	background-color: #ff8566;
+}
